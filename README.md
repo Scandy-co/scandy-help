@@ -2,6 +2,8 @@
 
 Proposed, future home for Scandy-related documentation and support.
 
+[Try me](/some-page).
+
 #### References
 
 Beginner's guide to [Git, GitHub, GitHub Pages, and Jekyll.](http://jmcglone.com/guides/github-pages/)
